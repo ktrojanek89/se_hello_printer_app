@@ -1,8 +1,8 @@
-  language: python
-  python:
+language: python
+python:
   - "2.7"
-  install:
-    - make deps
-  script:
-    - make test
-    - make lint
+install:
+  - make deps
+script:
+  - make test
+  - make lint

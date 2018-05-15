@@ -4,7 +4,7 @@ from formater import SUPPORTED, PLAIN
 from flask import request
 from flask import url_for, redirect
 
-moje_imie = "Karolina"
+moje_imie = "Happy Simon's saying"
 msg = "Hello World!"
 
 

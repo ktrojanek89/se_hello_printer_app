@@ -20,7 +20,7 @@ def main():
 
 def checkOutput(rj):
     actual = jmespath.search('imie', rj)
-    expected = "Happy Simon's saying"
+    expected = "Simon"
     if actual != expected:
         print("FAILED: We expected: " + expected + " but was " + actual)
         exit(1)

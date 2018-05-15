@@ -1,3 +1,9 @@
+# Welcome!
+
+
+[![Build Status](https://travis-ci.org/ktrojanek89/se_hello_printer_app.svg?branch=master)](https://travis-ci.org/ktrojanek89/se_hello_printer_app)
+
+
 Simple Flask App
 ================
 
